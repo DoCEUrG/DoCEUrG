@@ -1,4 +1,4 @@
-package fr.docteur.SMD.annotations.statistics;
+package fr.DocEUrG.SMD.annotations.statistics;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
